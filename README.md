@@ -1,4 +1,7 @@
-Madoka_Magica_Mode
+ACG-in-QSanguosha
 ==================
 
-A new lua game mode for QSanguosha based on Madoka Magica. This project is not started yet.
+LUA for ACG characters in QSanguosha.
+
+Currently contains:
+Super Danganronpa 2 Characters
