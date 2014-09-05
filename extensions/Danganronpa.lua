@@ -195,6 +195,7 @@ sgs.LoadTranslationTable{
 	["#TogamiByakuyaFake"]="超高校级的欺诈师",
 	["designer:TogamiByakuyaFake"]="Smwlover",
 	["illustrator:TogamiByakuyaFake"]="Ruby",
+	["~TogamiByakuyaFake"]="领导你们……这是“超高校级的贵公子”十神白夜的……宿命……",
 	
 	["LuaShiShen"]="食神",
 	[":LuaShiShen"]="<font color=\"blue\"><b>锁定技，</b></font>一名角色使用【五谷丰登】指定目标后，若你是目标之一，则该【五谷丰登】从你开始结算。",
@@ -354,6 +355,7 @@ sgs.LoadTranslationTable{
 	["#HanamuraTeruteru"]="超高校级的料理人",
 	["designer:HanamuraTeruteru"]="Smwlover",
 	["illustrator:HanamuraTeruteru"]="Ruby",
+	["~HanamuraTeruteru"]="娘和……花村食堂……到底怎么样了？",
 	
 	["LuaPinWei"]="大厨",
 	[":LuaPinWei"]="你使用或打出一张红桃牌时，或将一张红桃牌作为拼点牌亮出时，可以摸一张牌。",
@@ -467,6 +469,7 @@ sgs.LoadTranslationTable{
 	["#KoizumiMahiru"]="超高校级的写真家",
 	["designer:KoizumiMahiru"]="Smwlover",
 	["illustrator:KoizumiMahiru"]="Ruby",
+	["~KoizumiMahiru"]="赎罪了……茄——子……大家……笑一笑……",
 	
 	["LuaPaiYou"]="排忧",
 	[":LuaPaiYou"]="结束阶段开始时，你可以弃置一张红色牌，令一名角色回复1点体力。",
@@ -722,6 +725,7 @@ sgs.LoadTranslationTable{
 	["#PekoyamaPeko"]="超高校级的剑道家",
 	["designer:PekoyamaPeko"]="Smwlover",
 	["illustrator:PekoyamaPeko"]="Ruby",
+	["~PekoyamaPeko"]="对不起，少爷……不能陪你到最后。永别了……",
 	
 	["LuaGuoJue"]="果决",
 	[":LuaGuoJue"]="你即将回复体力时，可以防止之。若如此做，视为你对一名其他角色使用了一张【杀】（不计入出牌阶段使用次数限制）。",
@@ -872,6 +876,7 @@ sgs.LoadTranslationTable{
 	["#SaionjiHiyoko"]="超高校级的日本舞蹈家",
 	["designer:SaionjiHiyoko"]="Smwlover",
 	["illustrator:SaionjiHiyoko"]="Ruby",
+	["~SaionjiHiyoko"]="蚂蚁先生……哥哥……姐姐……小……泉……",
 	
 	["LuaShanWu"]="扇舞",
 	[":LuaShanWu"]="<font color=\"green\"><b>出牌阶段限一次，</b></font>你可以弃置任意数量的装备牌，然后令等量的角色依次回复1点体力。若你以此法令三名或以上的角色回复体力，你须将武将牌翻面。",
@@ -1233,6 +1238,7 @@ sgs.LoadTranslationTable{
 	["#MiodaIbuki"]="超高校级的轻音部",
 	["designer:MiodaIbuki"]="Smwlover",
 	["illustrator:MiodaIbuki"]="Ruby",
+	["~MiodaIbuki"]="大家……再听我唱一首歌吧……",
 	
 	["LuaYanYi"]="颜艺",
 	[":LuaYanYi"]="出牌阶段开始时，你可以展示一张非延时锦囊牌。若如此做，本阶段限一次，你可以将一张与该牌同颜色的牌当该牌使用。",
@@ -1473,6 +1479,7 @@ sgs.LoadTranslationTable{
 	["#TsumikiMikan"]="超高校级的保健委员",
 	["designer:TsumikiMikan"]="Smwlover",
 	["illustrator:TsumikiMikan"]="Ruby",
+	["~TsumikiMikan"]="终于可以到一个，不会被人欺负的世界中去了……",
 	
 	["LuaYuShang"]="愈伤",
 	[":LuaYuShang"]="一名武将牌正面朝上的角色处于濒死状态时，你可以令该角色回复一点体力，然后该角色将武将牌翻面。",
@@ -1649,6 +1656,7 @@ sgs.LoadTranslationTable{
 	["#NidaiNekomaru"]="超高校级的经理人",
 	["designer:NidaiNekomaru"]="Smwlover",
 	["illustrator:NidaiNekomaru"]="Ruby",
+	["~NidaiNekomaru"]="真是难为情啊，我弐大猫丸，竟然会……",
 	
 	["LuaChuiLian"]="锤炼",
 	[":LuaChuiLian"]="一名角色使用【杀】指定目标后，你可以弃置一张基本牌，令此【杀】不可被闪避。",
@@ -1915,6 +1923,7 @@ sgs.LoadTranslationTable{
 	["#TanakaGandamu"]="超高校级的饲育委员",
 	["designer:TanakaGandamu"]="Smwlover",
 	["illustrator:TanakaGandamu"]="Ruby",
+	["~TanakaGandamu"]="直到最后为止，也要骄傲地！自豪地！无所畏惧地！永不退缩地！放声大笑啊！",
 	
 	["LuaYuShou"]="御兽",
 	[":LuaYuShou"]="出牌阶段，你可以将一张与场上所有“鼠”的花色均不同的手牌置于一名其他角色的武将牌上，称为“鼠”。若一名角色的武将牌上有“鼠”，你与该角色的距离始终视为1，且该角色于其准备阶段开始时，可以打出一张【杀】并将“鼠”置入弃牌堆。",
@@ -2467,8 +2476,8 @@ LuaXinSi = sgs.CreateTriggerSkill{
 			log.to:append(victim)
 			log.arg = self:objectName()
 			room:sendLog(log)
-		
-			room:detachSkillFromPlayer(victim, choice);
+			
+			room:handleAcquireDetachSkills(victim, "-"..choice)
 			--记录失去的技能
 			local skillStr = player:property("xinsiLose"):toString()
 			local skillLost = {}
@@ -2538,7 +2547,7 @@ ZiRuCard = sgs.CreateSkillCard{
 		else
 			local skillStr = getAvailableSkillToAcquire(source)
 			local choice = room:askForChoice(source,"LuaZiRu",skillStr)
-			room:acquireSkill(source, choice)
+			room:handleAcquireDetachSkills(source, choice)
 			room:setPlayerProperty(source, "ziruAcquire", sgs.QVariant(choice))
 		end
 	end,
@@ -2564,7 +2573,7 @@ LuaZiRu = sgs.CreateTriggerSkill{
 			--失去因“自如”而获得的技能
 			local skill = player:property("ziruAcquire"):toString()
 			if skill ~= "" then
-				room:detachSkillFromPlayer(player,skill)
+				room:handleAcquireDetachSkills(player, "-"..skill)
 				room:setPlayerProperty(player, "ziruAcquire", sgs.QVariant(""))
 			end
 			--令神座选择一项
